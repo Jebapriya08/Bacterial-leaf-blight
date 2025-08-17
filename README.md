@@ -1,9 +1,3 @@
-ChatGPT said:
-
-Got it 👍 You want a README.md file for your GitHub project so others can understand your Rice Leaf Disease Detection project.
-
-Here’s a simple beginner-friendly README you can copy-paste and edit:
-
 🌾 Rice Leaf Disease Detection using Deep Learning
 
 This project is an AI model that detects Bacterial Leaf Blight in rice leaves using deep learning (CNN). It takes rice leaf images as input and predicts whether the leaf is Healthy or Infected.
